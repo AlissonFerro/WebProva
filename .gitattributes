@@ -1,3 +1,4 @@
-static/* linguist-vendored
-site_cartao/static/* linguist-vendored
-site_cartao/templates/* linguist-vendored
+/*/**/Dockerfile          linguist-generated
+/*/**/apache2-foreground  linguist-generated
+/*/**/docker-php-*        linguist-generated
+/Dockerfile*.template     linguist-language=Dockerfile
